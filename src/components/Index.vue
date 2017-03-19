@@ -72,6 +72,7 @@
 </script>
 
 <style lang="less">
+    // 覆盖原有样式
     .weui-grid{text-decoration: none;
         .weui-grid__icon{
             width: 60px;height: 60px;
